@@ -1,0 +1,1 @@
+update: hadoop-0.20.3-dev-eclipse-plugin.jar
